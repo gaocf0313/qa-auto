@@ -1,0 +1,17 @@
+com\zhaopin\config\TestConfig.class
+com\zhaopin\model\User.class
+com\zhaopin\cases\GetUserListTest.class
+com\zhaopin\utils\ConfigFile.class
+com\zhaopin\config\ExtentTestNGIReporterListener$1.class
+com\zhaopin\cases\LoginTest.class
+com\zhaopin\model\AddUserCase.class
+com\zhaopin\model\UpdateUserInfoCase.class
+com\zhaopin\cases\UpdateUserInfoTest.class
+com\zhaopin\cases\addUserTest.class
+com\zhaopin\cases\GetUserInfoTest.class
+com\zhaopin\model\InterfaceName.class
+com\zhaopin\model\LoginCase.class
+com\zhaopin\model\GetUserInfoCase.class
+com\zhaopin\utils\DataBaseUtil.class
+com\zhaopin\model\GetUserListCase.class
+com\zhaopin\config\ExtentTestNGIReporterListener.class
