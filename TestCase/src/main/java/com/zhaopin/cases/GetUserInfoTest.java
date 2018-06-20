@@ -11,6 +11,7 @@ import java.io.IOException;
 public class GetUserInfoTest {
 
     @Test(dependsOnGroups = "loginTrue",description = "获取userId为1的用户信息")
+
     public void getUserInfo() throws IOException {
         SqlSession session = DataBaseUtil.getSqlSession();
         GetUserInfoCase getUserInfoCase = session.selectOne("getUserInfoCase",1);
