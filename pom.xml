@@ -21,6 +21,7 @@
         <module>Springboot</module>
         <module>Mybatis</module>
         <module>TestCase</module>
+        <module>InterfaceDev</module>
     </modules>
 
 

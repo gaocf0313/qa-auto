@@ -1,0 +1,4 @@
+com\zhaopin\config\SwaggerConfig.class
+com\zhaopin\model\User.class
+com\zhaopin\controller\userManager.class
+com\zhaopin\application.class
